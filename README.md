@@ -5,11 +5,11 @@
 
 ## I'm a Student,Developer, and Good learner !!
 
-- 🔭 I'm working on a web application [ Using java,spring,html,css ...]
-- 🌱 I'm tech-enthusiast & student willing to know the latest technology.🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Create Project on Open Source | Contribute more to Open Source projects.
-- ⚡ Fun fact: I love play viedo games / Know more about latest technology.
+- 🔭   I'm working on a web application [ Using java,spring,html,css ...]
+- 🌱   I'm tech-enthusiast & student willing to know the latest technology.🤣
+- 👯   I’m looking to collaborate with other content creators
+- 🥅   2022 Goals: Create Project on Open Source | Contribute more to Open Source projects.
+- ⚡   Fun fact: I love play viedo games / Know more about latest technology.
 
 ### Connect with me:
 
