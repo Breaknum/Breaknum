@@ -1,15 +1,15 @@
-### Hi, I'm vinay 👋
+### Hi, I'm vinay !
 
 [![linkrdin](https://img.shields.io/badge/%E2%8E%9F-Connect%20Wth%20Me...-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vinay-khalkho)
 [![telegram](https://img.shields.io/badge/%E2%8E%9F-Contact%20Me...-blue?style=for-the-badge&logo=linkedin)](https://t.me/Breaknum)
 
 ## I'm a Student,Developer, and Good learner !!
 
-- 🔭 &nbsp;&nbsp;&nbsp;&nbsp;I'm working on a web application [ Using java,spring,html,css ...]
-- 🌱 &nbsp;&nbsp;&nbsp;&nbsp;I'm tech-enthusiast & student willing to know the latest technology.🤣
-- 👯 &nbsp;&nbsp;&nbsp;&nbsp;I’m looking to collaborate with other content creators
-- 🥅 &nbsp;&nbsp;&nbsp;&nbsp;2022 Goals: Create Project on Open Source | Contribute more to Open Source projects.
-- ⚡ &nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I love play viedo games / Know more about latest technology.
+> - 🎭 &nbsp;&nbsp;&nbsp;&nbsp;I'm working on a web application [ Using java,spring,html,css ...]
+> - 📚 &nbsp;&nbsp;&nbsp;&nbsp;I'm tech-enthusiast & student willing to know the latest technology.🤣
+> - 🔍 &nbsp;&nbsp;&nbsp;&nbsp;I’m looking to collaborate with other content creators
+> - 🎯 &nbsp;&nbsp;&nbsp;&nbsp;2022 Goals: Create Project on Open Source | Contribute more to Open Source projects.
+> - 🎲 &nbsp;&nbsp;&nbsp;&nbsp;Fun fact: I love play viedo games / Know more about latest technology.
 
 
 
